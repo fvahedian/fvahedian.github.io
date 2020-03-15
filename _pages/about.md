@@ -7,6 +7,6 @@ My main research area is focused on applied machine learning, network/graph mini
 
 
 
-# News:
+# Updates:
 
 - January 2020 joined GEMS lab as a research fellow!
