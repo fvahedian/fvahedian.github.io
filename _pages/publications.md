@@ -1,9 +1,13 @@
+
 ---
-layout: archive
-title: "Publications"
 permalink: /publications/
-author_profile: true
+title: "Publications"
+modified: 2016-06-06
 ---
+
+{% include base_path %}
+{% include toc %}
+
 <img src="/images/pub1.png" width="100" />
 
 ## Publications
