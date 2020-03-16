@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
 <img src="/images/pub1.png" width="100" />
 
 ## Publications
