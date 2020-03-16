@@ -8,13 +8,9 @@ main:
     url: /teaching/    
     
   - title: "Academic Activities"
-    url: /portfolio/
+    url: /activities/
         
   - title: "Other Interest"
-    url: /year-archive/
+    url: /interest/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  
