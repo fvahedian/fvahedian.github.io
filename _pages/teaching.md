@@ -1,5 +1,5 @@
 
-<img src="/images/teaching1.png" style="float: left; margin-right: 10px; width:30" />
+<img src="/images/teaching1.png" width:"30" />
 ## Teaching
 
 Data mining, subsitute instructor, University of Michigan. Winter 2020.
