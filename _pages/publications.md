@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Sitemap"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -9,9 +9,9 @@ author_profile: true
 
 <img src="/images/pub1.png" width="100" />
 
-## Publications
 
-[Google Scholar](https://scholar.google.com/citations?user=nT_L7hcAAAAJ&hl=en&oi=ao)
+
+## [Google Scholar](https://scholar.google.com/citations?user=nT_L7hcAAAAJ&hl=en&oi=ao)
 
 **Fatemeh Vahedian** and Tijana Milenkovic. "NAReS: Redefining Network Alignment as Recommender System". To be submitted to Journal of Bioinformatics. --Under preparation--
 
