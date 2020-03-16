@@ -1,5 +1,7 @@
-![GitHub Logo](/images/teaching1.png)
-Format: ![Alt Text](url)
+
+<img src="/images/teaching1.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 ## Teaching
 
 Data mining, subsitute instructor, University of Michigan. Winter 2020.
