@@ -4,7 +4,6 @@
 ## Mentoring and Contribution to Diversity
 
 - Guided two graduate students in their research projects, writing papers and presenting their work at University of Notre Dame.
-
 - Organized Women In Technology workshop (over 100 particpants) at DePaul University with the goal of encouraging undergraduate female students pursue higher degree in STEM and help them to find a technology job in industry.
 - Worked with both graduate and undergraduate students to implement a recommendation model for Chicago City of Learning at DePaul University.
 - Volunteered to review and evaluate three posters by undergraduate students at DePual University Annual Undergraduate Research Showcase.
@@ -13,6 +12,7 @@
 ## Professional Activities
 
 **Organizer** Women In Technology Workshop, DePaul University 2017
+
 **Chair** School Of Computing Research Symposium (SOCRS)-2017
 
 ### Program Committee Member
