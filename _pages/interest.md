@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "Other Activities "
+permalink: /interest/
+author_profile: true
+---
+{% include base_path %}
+
 <img src="/images/hob.png" width="100" />
 
 Outside of daily computer sciecne research and academic activities, I am interested in outdoor activities like hiking and 
