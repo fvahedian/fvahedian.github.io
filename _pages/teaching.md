@@ -1,7 +1,5 @@
 
-<img src="/images/teaching1.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px; width:30px" />
+<img src="/images/teaching1.png" style="float: left; margin-right: 10px; width:30" />
 ## Teaching
 
 Data mining, subsitute instructor, University of Michigan. Winter 2020.
