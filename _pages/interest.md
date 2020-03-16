@@ -4,4 +4,4 @@ Outside of daily computer sciecne research and academic activities, I am interes
 backpacking. Traveling and going in the nature for hiking and backpacking are the most joyful activities in my life.
 Reading, cooking and planning with my cat are my other personal favorite.
 
-<img src="/images/3953273590_704e3899d5_m.jpg" />
+<img src="/images/20160808_163712.jpg" />
