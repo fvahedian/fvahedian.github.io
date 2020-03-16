@@ -1,4 +1,11 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
 
+{% include base_path %}
 <img src="/images/teaching1.png" width="100" />
 
 ## Teaching
