@@ -1,7 +1,9 @@
-##Publications
+## Publications
 
 **Fatemeh Vahedian** and Tijana Milenkovic. "NAReS: Redefining Network Alignment as Recommender System". To be submitted to Journal of Bioinformatics. --Under preparation--
+
 Shikang Liu, **Fatemeh Vahedian**, David Hachen, Omar Lizardo, Christian Poellabauer, Aaron Striegel, and Tijana Milenkovic. "Heterogeneous Network Approach to Predict Individuals’ Mental Health". Submitted to ACM Transactions on Knowledge Discovery from Data (TKDD).
+
 **Fatemeh Vahedian** and Robin Burke. "Recommender Systems based on Social Networks", Encyclopedia of Social Network Analysis and Mining (ESNAM). Second edition. Alhajj, Reda; Rokne, Jon (Eds.). Springer, 2017.
 **Fatemeh Vahedian**, Robin Burke and Bamshad Mobasher. "Multi-relational Recommendation in Heterogeneous Networks", ACM Transactions on the Web (TWEB), Volume 11 Issue 3, July 2017, Article No. 15.
 **Fatemeh Vahedian**, Robin Burke and Bamshad Mobasher. "Weighted Random Walk Sampling for Multi-Relational Recommendation", UMAP 2017 Proceedings of the 25th Conference on User Modeling, Adaptation and Personalization, Pages 230-237.
