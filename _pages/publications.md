@@ -1,11 +1,11 @@
 ---
+layout: archive
+title: "Sitemap"
 permalink: /publications/
-title: "Publications"
-modified: 2016-06-06
+author_profile: true
 ---
 
 {% include base_path %}
-{% include toc %}
 
 <img src="/images/pub1.png" width="100" />
 
