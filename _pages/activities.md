@@ -1,3 +1,6 @@
+
+<img src="/images/act1.png" width="100" />
+
 ## Mentoring and Contribution to Diversity
 
 - Guided two graduate students in their research projects, writing papers and presenting their work at University of Notre Dame.
@@ -15,6 +18,15 @@
 **Organizer** Women In Technology Workshop, DePaul University 2017
 **Chair** School Of Computing Research Symposium (SOCRS)-2017
 
+### Program Committee Member
+- ACM Conference on Recommender Systems- RecSys-2018, 2019
+- AI track- Grace Hopper Celebration of Women-2018
+- ACM Symposium on Applied Computing (SAC)- 2017
+- Florida Artificial Intelligence Research Society Conference (FLAIRS)- 2017
+- Workshop on Intelligent Recommender Systems by Knowledge Transfer and Learning (RecSysKTL) held in conjunction with the ACM Conference on Recommender Systems- 2017, 2018
+-Workshop on Web Personalization, Recommender Systems, and Social Media joint with Web Intelligence Conference- 2017
+- School Of Computing Research Symposium (SOCRS)- 2015 DePaul University Annual Undergraduate Research Showcase- 2016
+
 ### Reviewer
 - User Modeling and User-Adapted Interaction: The Journal of Personalization Research (UMUAI)
 
@@ -24,12 +36,5 @@
 - Journal of Information System and Tourism
 - ACM Conference on Recommender Systems (RecSys)- 2016
 - ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR)- 2017
-- ACM Conference on Recommender Systems- RecSys-2018, 2019
-- AI track- Grace Hopper Celebration of Women-2018
-- ACM Symposium on Applied Computing (SAC)- 2017
-- Florida Artificial Intelligence Research Society Conference (FLAIRS)- 2017
-- Workshop on Intelligent Recommender Systems by Knowledge Transfer and Learning (RecSysKTL) held in conjunction with the -- - ACM Conference on Recommender Systems- 2017, 2018
--Workshop on Web Personalization, Recommender Systems, and Social Media joint with Web Intelligence Conference- 2017
+
   
-### Program Committee Member
-School Of Computing Research Symposium (SOCRS)- 2015 DePaul University Annual Undergraduate Research Showcase- 2016
