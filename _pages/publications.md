@@ -1,5 +1,7 @@
 ## Publications
 
+[Google Scholar](https://scholar.google.com/citations?user=nT_L7hcAAAAJ&hl=en&oi=ao)
+
 **Fatemeh Vahedian** and Tijana Milenkovic. "NAReS: Redefining Network Alignment as Recommender System". To be submitted to Journal of Bioinformatics. --Under preparation--
 
 Shikang Liu, **Fatemeh Vahedian**, David Hachen, Omar Lizardo, Christian Poellabauer, Aaron Striegel, and Tijana Milenkovic. "Heterogeneous Network Approach to Predict Individuals’ Mental Health". Submitted to ACM Transactions on Knowledge Discovery from Data (TKDD).
