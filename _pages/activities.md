@@ -1,12 +1,11 @@
-
 ---
 layout: archive
 title: "Academic Activities "
 permalink: /activities/
 author_profile: true
 ---
-
 {% include base_path %}
+
 <img src="/images/ac1.png" width="100" />
 
 ## Mentoring and Contribution to Diversity
