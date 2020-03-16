@@ -1,4 +1,5 @@
-
+![GitHub Logo](/images/teaching1.png)
+Format: ![Alt Text](url)
 ## Teaching
 
 Data mining, subsitute instructor, University of Michigan. Winter 2020.
