@@ -11,9 +11,9 @@
 
 ## Professional Activities
 
-**Organizer** Women In Technology Workshop, DePaul University 2017
+**Organizer** of Women In Technology Workshop, DePaul University 2017
 
-**Chair** School Of Computing Research Symposium (SOCRS)-2017
+**Chair** of School Of Computing Research Symposium (SOCRS)-2017
 
 ### Program Committee Member
 - ACM Conference on Recommender Systems- RecSys-2018, 2019
