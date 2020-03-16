@@ -1,5 +1,5 @@
 
-<img src="/images/act1.png" width="100" />
+<img src="/images/ac1.png" width="100" />
 
 ## Mentoring and Contribution to Diversity
 
