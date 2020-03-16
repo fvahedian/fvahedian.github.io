@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "My Web"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,7 +11,7 @@ redirect_from:
 
 <img src="/images/bio.png" width="100" />
 
-## About me
+
 I am a **Postdoctoral Research Fellow** with the Graph Exploration and Mining at Scale lab [(GEMS lab)](https://gemslab.github.io) at the University of Michigan – Ann Arbor under the supervision of [Dr. Danai Koutra](https://web.eecs.umich.edu/~dkoutra/). Before that, I was a postdoctoral research fellow with [Complex Networks Lab](https://www3.nd.edu/~cone/) at the University of Notre Dame. I received my Ph.D. in Computer Science from the DePaul University - Chicago, IL. My Ph.D thesis was focused on heterogenous network mining and hybrid recommendation under the supervision of [Dr. Robin Burke](http://www.that-recsys-lab.net/home/people/burke). 
 
 ## Research Interest:
