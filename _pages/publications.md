@@ -1,3 +1,5 @@
+<img src="/images/pub1.png" width="100" />
+
 ## Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=nT_L7hcAAAAJ&hl=en&oi=ao)
