@@ -6,7 +6,9 @@ I am a **Postdoctoral Research Fellow** with the Graph Exploration and Mining a
 ## Research Interest:
 
 My main research area is focused on applied machine learning, network/graph mining and recommender systems. I am interested in investigating complex system problems and develop machine learning methods to solve these problems. Currently I am focused on projects revolving nueral netwrok explanation, heterogenous network embedding and network alignment. 
-[My cv](fv_cv.pdf)     [Google Scholar](https://scholar.google.com/citations?user=nT_L7hcAAAAJ&hl=en&oi=ao)
+
+### [Curriculum vitae](/files/fv_cv.pdf)    
+### [Google Scholar](https://scholar.google.com/citations?user=nT_L7hcAAAAJ&hl=en&oi=ao)
 
 
 
