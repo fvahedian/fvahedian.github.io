@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Fatemeh Vahedian"
-  avatar           : "images/p1.jpg"
-  bio              : "Postdoctoral Research Fellow"
+  avatar           : "/images/p1.jpg"
+  bio              : "Postdoctoral Research Fellow, Computer Science, Univesity of Michigan"
   location         : "Ann Arbor, Michigan"
   employer         :  "University of Michigan"
   pubmed           : ""
