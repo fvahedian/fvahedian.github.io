@@ -10,6 +10,6 @@ author_profile: true
 
 Outside of daily computer sciecne research and academic activities, I am interested in outdoor activities like hiking and 
 backpacking. Traveling and going in the nature for hiking and backpacking are the most joyful activities in my life.
-Reading, cooking and planning with my cat are my other personal favorite.
+Reading, cooking and playing with my cat are my other personal favorite.
 
 <img src="/images/20160808_163712.jpg" />
